@@ -14,10 +14,10 @@ const timeline = [
   {
     type: "education",
     title: "Bachelor's in Computer Science",
-    organization: "University",
-    period: "2021 — 2025",
+    organization: "Moroccan engineering school",
+    period: "2019 — 2024",
     description: "Focused on software engineering, web technologies, and database systems. Active participant in coding competitions and open-source contributions.",
-    highlights: ["Dean's List", "Led team project for final year capstone", "Teaching assistant for Web Dev course"],
+    highlights: ["Delivered a home services booking app", "Developed a RESTful APIs and frontend dashboards", "Contributed to open-source web development projects on GitHub"],
   },
   {
     type: "work",

@@ -70,10 +70,10 @@ const Hero = () => {
           transition={{ duration: 0.8, delay: 1.2 }}
           className="flex items-center justify-center gap-5 mt-12"
         >
-          <a href="https://github.com" target="_blank" rel="noopener noreferrer" className="text-muted-foreground hover:text-foreground transition-colors">
+          <a href="https://github.com/CodeVoyager42-cyber" target="_blank" rel="noopener noreferrer" className="text-muted-foreground hover:text-foreground transition-colors">
             <Github size={20} />
           </a>
-          <a href="https://linkedin.com" target="_blank" rel="noopener noreferrer" className="text-muted-foreground hover:text-foreground transition-colors">
+          <a href="https://www.linkedin.com/in/mouad-el-02245b194/" target="_blank" rel="noopener noreferrer" className="text-muted-foreground hover:text-foreground transition-colors">
             <Linkedin size={20} />
           </a>
         </motion.div>

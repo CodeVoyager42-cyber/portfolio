@@ -31,7 +31,7 @@ const Navbar = () => {
     >
       <div className="container mx-auto flex items-center justify-between px-6">
         <a href="#" className="text-xl font-bold tracking-tight text-foreground">
-          dev<span className="text-gradient">.</span>portfolio
+          MouaDev<span className="text-gradient">.</span>
         </a>
 
         <div className="hidden md:flex items-center gap-8">

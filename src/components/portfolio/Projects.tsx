@@ -12,8 +12,8 @@ const projects = [
     live: "https://example.com",
   },
   {
-    title: "Task Management App",
-    description: "A collaborative project management tool with real-time updates, drag-and-drop boards, and role-based access control for teams.",
+    title: "Home Service Booking App",
+    description: "MisterPro connects clients with trusted home service professionals, allowing easy booking, secure payments, and real-time service tracking.",
     tech: ["Laravel", "React.js", "MySQL", "WebSockets"],
     achievements: ["Real-time collaboration for 10+ concurrent users", "Comprehensive test suite with 90% coverage"],
     github: "https://github.com",
