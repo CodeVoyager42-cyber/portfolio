@@ -53,6 +53,7 @@ export default function Education() {
                 <ul className="space-y-2">
                   {[
                     { lang: 'English', level: 'Technical' },
+                    { lang: 'French', level: 'Fluent' },
                     { lang: 'Arabic', level: 'Native' },
                   ].map((l) => (
                     <li key={l.lang} className="flex items-center justify-between">

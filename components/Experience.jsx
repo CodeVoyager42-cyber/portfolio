@@ -6,6 +6,18 @@ import { Briefcase } from 'lucide-react'
 const experiences = [
   {
     role: 'Fullstack Developer',
+    company: 'Isicod',
+    location: 'Rabat',
+    period: 'April 2026 – July 2026',
+    highlights: [
+      'Developed a digital signature solution integrating PKCS11 hardware security modules',
+      'Designed secure REST APIs with Spring Boot for document signing and verification workflows',
+      'Built a React.js interface for certificate management and signature visualization',
+      'Collaborated on cryptographic operations and compliance with e-signature standards',
+    ],
+  },
+  {
+    role: 'Fullstack Developer',
     company: 'Medz',
     location: 'Rabat',
     period: 'April 2025 – September 2025',
