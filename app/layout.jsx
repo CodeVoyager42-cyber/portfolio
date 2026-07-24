@@ -1,5 +1,5 @@
 import { Inter, JetBrains_Mono } from 'next/font/google'
-import { ThemeProvider } from '@/components/ThemeProvider'
+import { ThemeProvider } from '../components/ThemeProvider'
 import './globals.css'
 
 const inter = Inter({
@@ -28,6 +28,9 @@ export const metadata = {
     'Morocco',
   ],
   author: 'Mouad El Bahraoui',
+  icons: {
+    icon: '/favicon.svg',
+  },
   openGraph: {
     title: 'Mouad El Bahraoui — Fullstack Developer',
     description:
